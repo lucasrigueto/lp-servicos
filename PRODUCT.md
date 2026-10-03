@@ -1,6 +1,6 @@
-# Product · LP Agente SDR + Tráfego (/sdr/)
+# Product · Site principal Rigueto (Agente SDR + Tráfego)
 
-Escopo: só a página em `lp-servicos/sdr/` (código em `src/sdr/`). Os `PRODUCT.md` e `DESIGN.md` da raiz descrevem outra versão da landing e não valem aqui.
+Escopo: página principal do site (`index.html`, código em `src/sdr/`).
 
 ## Register
 

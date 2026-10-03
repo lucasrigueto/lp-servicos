@@ -131,7 +131,7 @@ components:
 
 # Design System: Rigueto · Agente SDR + Tráfego
 
-Escopo: só a página `lp-servicos/sdr/` (código em `src/sdr/`, tokens em `src/sdr/sdr.css`). O `DESIGN.md` da raiz de `lp-servicos` descreve outra versão da landing e não vale aqui.
+Escopo: página principal do site (`index.html`, código em `src/sdr/`, tokens em `src/sdr/sdr.css`).
 
 ## Overview
 

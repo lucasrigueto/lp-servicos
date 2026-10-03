@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "generatedAt": "2026-10-03T12:00:00Z",
   "title": "Design System: Rigueto · Agente SDR + Tráfego",
-  "scope": "lp-servicos/sdr/ only (source src/sdr/). The repo-root DESIGN.md and .impeccable/design.json describe a different landing and do not apply here.",
+  "scope": "Site principal (index.html, source src/sdr/).",
   "extensions": {
     "colorMeta": {
       "ink": { "role": "neutral", "displayName": "Ink", "canonical": "#1e1e1d", "tonalRamp": ["#0f0f0e", "#1e1e1d", "#2b2b2b", "#33332f", "#4a4a46", "#6f6e6a", "#a9a8a2", "#e6e4dc"] },
